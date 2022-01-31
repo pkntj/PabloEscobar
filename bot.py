@@ -277,4 +277,4 @@ async def on_ready():
     print('Olá, mundo!') 
     print(f'{client.user}')
 
-client.run("OTM2NzIyMjE5OTE5MzY4Mjgz.YfRUjA.TuA-4nUhL3rVFlk1u33__m7oTck")#token do bot/login
+client.run("TOKEN AQUI")#token do bot/login
